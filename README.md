@@ -15,7 +15,9 @@ Import CSV files into the respective directories.
 * Use CSV Import tab to import 'data/users.csv' to 'Domain/Workspaces/CSRs', no CSV switches required.
 * Use CSV Import tab to import 'data/providers.csv' to 'Domain/Workspaces/Providers', no CSV switches required.
 * Use CSV Import tab to import 'data/members.csv' to 'Domain/Workspaces/Members', no CSV switches required.
-* Use CSV Import tab to import 'data/claims.csv' to 'Domain/Workspaces/CLaims', enable the 'Apply Date, Author and Dublin Core properties.' switch.
+* Use CSV Import tab to import 'data/claims.csv' to 'Domain/Workspaces/Claims', enable the 'Apply Date, Author and Dublin Core properties.' switch.
+
+You will import 'new_claims.csv' to the 'NewClaims' folder with the 'Apply Date, Author and Dublin Core properties.' switch as part of the demo.
 
 > The data preparation and installation is complete.
 
