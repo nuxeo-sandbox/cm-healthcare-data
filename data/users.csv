@@ -1,0 +1,11 @@
+type,name,csr:name,dc:title
+CSR,csr3,csr3,Customer Rep Three
+CSR,dave,dave,Dave Rapp
+CSR,csr4,csr4,Customer Rep Four
+CSR,csr2,csr2,Customer Rep Two
+CSR,ryan,ryan,Ryan Grouse
+CSR,john,john,John Tripp
+CSR,csr5,csr5,Customer Rep Five
+CSR,lisa,lisa,Lisa Deleo
+CSR,Administrator,Administrator,System User
+CSR,csr1,csr1,Customer Rep One
